@@ -9,6 +9,9 @@ We've created a template HTML file in this repo, but the way we created it was C
 # JS 
 
 # Web Scraping 
+The exercises are listed in the bs4_exercises file. Follow along at your own pace! 
+
+Additionally, there's a demo for selenium, which allows you to interact with a web page, but in the interest of time, this is something you can look into on your free time. Check out the [BS4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#translating-this-documentation) and [Selenium](https://selenium-python.readthedocs.io/getting-started.html) documentation!
 
 
 # Github Pages / Netlify 
