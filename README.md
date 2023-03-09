@@ -18,8 +18,8 @@ Additionally, there's a demo for selenium, which allows you to interact with a w
 # Github Pages / Netlify 
 
 # More Resources
-[HTML Tag Reference](https://www.w3schools.com/TAGS/default.asp)
-[CSS Properties Reference](https://www.w3schools.com/cssref/index.php)
-[JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[The Odin Project](https://www.theodinproject.com/dashboard)
-[Full Stack Open](https://fullstackopen.com/en/)
+- [HTML Tag Reference](https://www.w3schools.com/TAGS/default.asp)
+- [CSS Properties Reference](https://www.w3schools.com/cssref/index.php)
+- [JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [The Odin Project](https://www.theodinproject.com/dashboard)
+- [Full Stack Open](https://fullstackopen.com/en/)
