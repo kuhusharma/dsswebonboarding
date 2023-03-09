@@ -8,6 +8,8 @@ We've created a template HTML file in this repo, but the way we created it was C
 
 Try to create your own website by adding an image, a link, and some text. Make it prettier with CSS as well! 
 
+Using VSCode Live Server, you can see changes before deploying to Github pages / Netlify. Make sure to save your file so that it re-renders! 
+
 # JS 
 Try out a couple of these simple exercises. JS can help modularize the process as well as add more interactability to the website (the latter will not be covered).
 
