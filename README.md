@@ -6,6 +6,8 @@ To start off with, we'll be using VS Code. Please install the "Live Server" exte
 # HTML / CSS
 We've created a template HTML file in this repo, but the way we created it was Ctrl + Space -> HTML Sample. 
 
+Try to create your own website by adding an image, a link, and some text. Make it prettier with CSS as well! 
+
 # JS 
 Try out a couple of these simple exercises. JS can help modularize the process as well as add more interactability to the website (the latter will not be covered).
 
@@ -16,6 +18,7 @@ Additionally, there's a demo for selenium, which allows you to interact with a w
 
 
 # Github Pages / Netlify 
+Follow the steps to either take your website public with [Github Pages](https://docs.github.com/en/pages/quickstart), or onboard your repo to [Netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/). If you'd like to redirect to your own domain (want a personal website?), check out [this Netlify documentation](https://docs.netlify.com/domains-https/custom-domains/). 
 
 # More Resources
 - [HTML Tag Reference](https://www.w3schools.com/TAGS/default.asp)
